@@ -18,7 +18,7 @@
 
 ## Завантаження
 
-1. Схиляти репозиторій:
+1. Склонувати репозиторій:
 
 ``` bash
 git clone https://github.com/artemijMoskowsky/imp_l5
